@@ -40,3 +40,8 @@ References
 
 - [Hello World in Fortran](https://en.wikibooks.org/wiki/Fortran/Hello_world)
 - [Fotran on Wikipedia](https://en.wikipedia.org/wiki/Fortran)
+- [This is not your father's Fortran](http://hackaday.com/2015/10/26/this-is-not-your-fathers-fortran/)
+- [Who said Fortran is dead?](http://hackaday.com/2015/11/01/who-said-fortran-is-dead/)
+- [FortranTutorial.com](http://www.fortrantutorial.com/)
+- [Fortran Tutorial at TutorialsPoint.com](http://www.tutorialspoint.com/fortran/)
+- [Fortran Tutorial by Stanford](http://web.stanford.edu/class/me200c/tutorial_77/)
