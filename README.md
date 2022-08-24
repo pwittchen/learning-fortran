@@ -11,6 +11,7 @@ Install GNU Fortran compiler from the GCC, which is a fork of G95:
 ```
 $ sudo apt-get install gfortran
 ```
+[Click here](https://www.scaler.com/topics/c/install-c-on-linux/) to know more about the installation process.
 
 Compiling and running programs
 ------------------------------
